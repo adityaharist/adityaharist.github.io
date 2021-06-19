@@ -1,0 +1,59 @@
+{    
+    "formal": [
+        {
+            "name": "Github",
+            "link": "https://github.com/arifirmansyah/"
+        },
+        {
+            "name": "Open Source Contributions",
+            "link": "https://arifirmansyah.herokuapp.com/opensource/"
+        },
+        {
+            "name": "Gmail",
+            "link": "mailto:adityaharist19@gmail.com"
+        },
+        {
+            "name": "LinkedIn",
+            "link": "http://linkedin.com/in/aditya-harist-ari-firmansyah/"
+        },
+        {
+            "name": "Technical Blogs",
+            "link": "https://arifirmansyah.herokuapp.com/blogs/"
+        },
+        {
+            "name": "Github Stats",
+            "link": "https://www.gitmemory.com/arifirmansyah"
+        },
+        {
+            "name": "Codechef",
+            "link": "https://www.codechef.com/users/arifirmansyah"
+        }, 
+        {
+            "name": "HackerRank",
+            "link": "https://www.hackerrank.com/arifirmansyah"
+        },
+        {
+            "name": "Medium",
+            "link": "https://medium.com/@jumphigher19"
+        },
+        {
+            "name": "Instagram",
+            "link": "https://instagram.com/adityah.ari.st"
+        },
+        {
+            "name": "Facebook",
+            "link": "https://facebook.com/adityaharist"
+        }
+    ],
+ 
+    "informal": [
+        {
+            "name": "Good Sentences", 
+            "link": "https://arifirmansyah.herokuapp.com/gist/goodsentences/"
+        },
+        {
+            "name": "Good Reads", 
+            "link": "https://www.goodreads.com/77300875-ari-firmansyah"
+        }
+    ]
+}
