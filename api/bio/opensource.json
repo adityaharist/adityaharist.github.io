@@ -1,0 +1,69 @@
+{
+    "prs": [
+    	{
+            "prlink": "https://github.com/mlpack/mlpack/pull/2769",
+            "reponame": "MLpack",
+            "Field": "Machine Learning", 
+            "title": "Adding Constructors for Convolution and Adaptive mean pooling",
+            "date": "Dec '20"    	
+    	},
+        {
+            "prlink": "https://github.com/mlpack/mlpack/pull/2759",
+            "reponame": "MLpack",
+            "Field": "Machine Learning", 
+            "title": "Adding Copy and Move constructors for LSTM class",
+            "date": "Dec '20"    	
+    	},
+    	{
+            "prlink": "https://github.com/mozilla/kitsune/pull/4588",
+            "reponame": "Support Website Mozilla",
+            "Field": "Backend", 
+            "title": "Removed dashboard overview-link 404 page",
+            "date": "Nov '20"    	
+    	},
+        {
+            "prlink": "https://github.com/mozilla/kitsune/pull/4580",
+            "reponame": "Support Website Mozilla",
+            "Field": "Backend", 
+            "title": "Fixed sort article discussion posts by Author, Replies or Last Post",
+            "date": "Oct '20"
+        },
+        {
+            "prlink": "https://github.com/mozilla/kitsune/pull/4578",
+            "reponame": "Support Website Mozilla",
+            "Field": "Backend", 
+            "title": "adding next_url after auth of contributor",
+            "date": "Oct '20"
+        },
+        {
+            "prlink": "https://github.com/hunkim/DeepLearningZeroToAll/pull/259",
+            "reponame": "hunkim/DeepLearningZeroToAll",
+            "Field": "Deep Learning", 
+            "title": "Updated Keras Models",
+            "date": "Jan '20"
+        }
+    ], 
+    "issues": [
+        {
+            "issuelink": "https://github.com/mozilla/sumo-project/issues/640",
+            "reponame": "Support Website Mozilla",
+            "Field": "Backend", 
+            "title": "Complete Overview redirects to 404 when All Products are selected",
+            "date": "Oct '20"
+        }, 
+        {
+            "issuelink": "https://github.com/mozilla/sumo-project/issues/529",
+            "reponame": "Support Website Mozilla",
+            "Field": "Backend", 
+            "title": "Filtering Article Discussion posts does not work",
+            "date": "Oct '20"
+        }, 
+        {
+            "issuelink": "https://github.com/mozilla/sumo-project/issues/308",
+            "reponame": "Support Website Mozilla",
+            "Field": "Backend", 
+            "title": "The user is redirected to home page",
+            "date": "Oct '20"
+        }
+    ]
+}
